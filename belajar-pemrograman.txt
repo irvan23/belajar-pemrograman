@@ -1,4 +1,6 @@
 Belajar Pemrograman
 - konsisten untuk mempelajari web programming 
 - membuat aplikasi sederhana 
-- mempelari CCNA
+- mempelajari CCNA
+- mempelajari bootsrap 5
+- mempelajari codeigniter 4
