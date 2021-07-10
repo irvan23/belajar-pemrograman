@@ -1,0 +1,5 @@
+Halo, salam kenal saya irvan dari bandung
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
